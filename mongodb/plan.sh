@@ -1,8 +1,8 @@
-pkg_origin=franklinwebber
-pkg_name=mongodb
+pkg_origin=learn-chef
+pkg_name=mongodb-parks
 pkg_version=3.2.9
-pkg_description="Mongodb for National-Parks app"
-pkg_maintainer="The Habitat Maintainers <humans@habitat.sh>"
+pkg_description="MongoDB for the National Parks app"
+pkg_maintainer="The Chef Training Team <training@chef.io>"
 pkg_license=('AGPL-3.0')
 pkg_deps=(core/mongodb core/mongo-tools)
 
